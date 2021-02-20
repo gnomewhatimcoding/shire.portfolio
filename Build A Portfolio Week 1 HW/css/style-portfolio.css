@@ -1,0 +1,58 @@
+body {
+		background: url('../Images/Hobbiton.png');
+		background-position: center;
+		background-attachment: fixed;
+		-webkit-background-size: cover; 
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		text-align: center;
+		font-family: 'Tangerine', cursive;}
+
+	h1{background: #5A9720;
+	padding: 5px;
+	border-radius: 5px;
+	border-style: double;}
+
+	h2{background: #5A9720;
+	padding: 5px;
+	border-radius: 5px; 
+	border-style: double;}
+
+	h3{background: #5A9720;
+	padding: 5px;
+	border-radius: 5px; 
+	border-style: double;}
+	
+	h4{background: #5A9720;
+	padding: 5px;
+	border-radius: 5px; 
+	border-style: double;}
+
+	h5{font-size: 22px; 
+	border-radius: 5px; 
+	border-style: double;}
+	
+	a{color: #5a9720; text-decoration: none;}
+
+	div{width: 300px;
+  	padding: 50px;
+  	margin: 20px;}
+
+	
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
